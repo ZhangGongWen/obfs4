@@ -40,7 +40,7 @@ import (
 	"net"
 	"time"
 
-	"github.com/OperatorFoundation/goptlib"
+	"goptlib"
 
 	"gitlab.com/yawning/obfs4.git/common/csrand"
 	"gitlab.com/yawning/obfs4.git/transports/base"

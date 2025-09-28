@@ -41,7 +41,7 @@ import (
 	"sync"
 	"syscall"
 
-	"github.com/OperatorFoundation/goptlib"
+	"goptlib"
 	"golang.org/x/net/proxy"
 
 	"gitlab.com/yawning/obfs4.git/common/log"

@@ -47,7 +47,7 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/OperatorFoundation/goptlib"
+	"goptlib"
 )
 
 const (

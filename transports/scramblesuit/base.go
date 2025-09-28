@@ -33,7 +33,7 @@ import (
 	"fmt"
 	"net"
 
-	"github.com/OperatorFoundation/goptlib"
+	"goptlib"
 
 	"gitlab.com/yawning/obfs4.git/transports/base"
 )

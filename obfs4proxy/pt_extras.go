@@ -35,7 +35,7 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/OperatorFoundation/goptlib"
+	"goptlib"
 )
 
 // This file contains things that probably should be in goptlib but are not

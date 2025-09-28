@@ -42,7 +42,7 @@ import (
 	"net"
 	"time"
 
-	"github.com/OperatorFoundation/goptlib"
+	"goptlib"
 	"golang.org/x/crypto/hkdf"
 
 	"gitlab.com/yawning/obfs4.git/common/csrand"
