@@ -40,7 +40,7 @@ import (
 	"net"
 	"time"
 
-	"gitlab.torproject.org/tpo/anti-censorship/pluggable-transports/goptlib"
+	"github.com/OperatorFoundation/goptlib"
 
 	"gitlab.com/yawning/obfs4.git/common/csrand"
 	"gitlab.com/yawning/obfs4.git/common/uniformdh"

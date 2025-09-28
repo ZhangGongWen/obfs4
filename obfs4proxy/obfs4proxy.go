@@ -41,7 +41,7 @@ import (
 	"sync"
 	"syscall"
 
-	"gitlab.torproject.org/tpo/anti-censorship/pluggable-transports/goptlib"
+	"github.com/OperatorFoundation/goptlib"
 	"golang.org/x/net/proxy"
 
 	"gitlab.com/yawning/obfs4.git/common/log"

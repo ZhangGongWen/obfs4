@@ -42,7 +42,7 @@ import (
 	"syscall"
 	"time"
 
-	"gitlab.torproject.org/tpo/anti-censorship/pluggable-transports/goptlib"
+	"github.com/OperatorFoundation/goptlib"
 
 	"gitlab.com/yawning/obfs4.git/common/drbg"
 	"gitlab.com/yawning/obfs4.git/common/ntor"

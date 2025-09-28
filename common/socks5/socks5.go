@@ -47,7 +47,7 @@ import (
 	"syscall"
 	"time"
 
-	"gitlab.torproject.org/tpo/anti-censorship/pluggable-transports/goptlib"
+	"github.com/OperatorFoundation/goptlib"
 )
 
 const (

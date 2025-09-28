@@ -42,7 +42,7 @@ import (
 	"net"
 	"time"
 
-	"gitlab.torproject.org/tpo/anti-censorship/pluggable-transports/goptlib"
+	"github.com/OperatorFoundation/goptlib"
 	"golang.org/x/crypto/hkdf"
 
 	"gitlab.com/yawning/obfs4.git/common/csrand"
